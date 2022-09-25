@@ -69,6 +69,10 @@
                         <a href="./dashboardPage.php" style="font-weight:600">Dashboard</a>
                     </div>
                     <div class="content-menu">
+                        <i class="fa fa-user-circle"></i>
+                        <a href="./editPage.php" style="font-weight:600">Edit Profile</a>
+                    </div>
+                    <div class="content-menu">
                         <i class="fa fa-film"></i>
                         <a href="./listMoviesPage.php" style="font-weight:600">List Movie</a>
                     </div>

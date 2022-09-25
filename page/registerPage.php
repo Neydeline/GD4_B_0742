@@ -48,7 +48,7 @@
                     <button type="submit" class="btn btn-primary" name="register">Register</button>
                 </div>
             </form>
-            <p class="mt-2 mb-0">Have an account? <a href="#" class="text-primary">Login here!</a></p>
+            <p class="mt-2 mb-0">Have an account? <a href="../page/loginPage.php" class="text-primary">Login here!</a></p>
         </div>
     </div>
         </div>
